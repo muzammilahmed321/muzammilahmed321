@@ -24,7 +24,7 @@
 I'm a Computer Science undergraduate specializing in AI, working at the intersection of **data science** and **full-stack development** — I like taking a problem from raw data or an idea all the way to a working, deployed product.
 
 - 📊 **Data Science:** building end-to-end ML pipelines — data cleaning, EDA, feature engineering, model benchmarking, and deployment
-- 🌐 **Full-Stack Development:** React on the frontend, Django/Node on the backend, with relational database design
+- 🌐 **Full-Stack Development:** React on the frontend, Django on the backend, with relational database design
 - 🎓 B.S. Computer Science (AI Specialization) — **NED University of Engineering & Technology**, Karachi | CGPA 3.48
 - 🏆 Competitive programmer — **ICPC 2025**; hackathon builder at **IBA Pro Battle 2024 & 2025**
 - 🔐 Explored digital forensics workflows at **Cyber Threat Forensics (Resecurity, 2025)**
