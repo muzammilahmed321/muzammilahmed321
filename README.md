@@ -10,8 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-ahmed-795527271)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammilahmed321)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/MuzammilAhmed12)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzamilahmed1h2@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-03153582827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923153582827)
 
 <img src="https://komarev.com/ghpvc/?username=muzammilahmed321&color=2563EB&style=for-the-badge" alt="profile views" />
 
@@ -103,7 +103,7 @@ OOP-structured regression pipeline predicting insurance charges — full workflo
 
 **[Hotel Management System](https://github.com/muzammilahmed321/Hotel_Management_System)**
 Full-stack hotel booking platform, built with a 4-member team. Contributed the React frontend, the search/booking flow, and a BCNF-normalized SQL Server schema across 12 entities.
-`React` `Node.js` `Express.js` `SQL Server`
+`React` `Express.js` `SQL Server`
 
 **[Expense Tracker](https://github.com/muzammilahmed321/Expense-Tracker)**
 OOP-driven full-stack expense tracker built with a teammate. JWT authentication, category-wise budgeting with automated threshold alerts, and a Recharts analytics dashboard.
@@ -137,8 +137,8 @@ Real-time weather app using the OpenWeather REST API with async/await and a resp
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-ahmed-795527271)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/MuzammilAhmed12)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzamilahmed1h2@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-03153582827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923153582827)
 
 ⭐ Thanks for stopping by — feel free to explore my repos and reach out!
 
