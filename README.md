@@ -2,9 +2,9 @@
 
 # Hi, I'm Muzammil Ahmed 👋
 
-### Computer Science Undergraduate (AI Specialization) @ NED University, Karachi
+### CS Undergraduate (AI Specialization) @ NED University
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Frontend+%26+Full-Stack+Developer;Machine+Learning+Enthusiast;Building+End-to-End+ML+Pipelines;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Scientist;ML+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 
 <br>
 
@@ -21,67 +21,99 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.S. Computer Science (AI Specialization) — **NED University of Engineering & Technology**, Karachi
-- 💡 Interested in **frontend development**, with hands-on exposure across full-stack web development, machine learning, and databases
-- 🔭 Currently building: end-to-end ML pipelines, React-based full-stack apps, and OOP-driven systems
-- 🌱 Currently learning: Django, Next.js, and applied ML workflows
-- 🏆 Competitive programmer — **ICPC 2025**, hackathon participant at **IBA Pro Battle 2024 & 2025**
+I'm a Computer Science undergraduate specializing in AI, working at the intersection of **data science** and **full-stack development** — I like taking a problem from raw data or an idea all the way to a working, deployed product.
+
+- 📊 **Data Science:** building end-to-end ML pipelines — data cleaning, EDA, feature engineering, model benchmarking, and deployment
+- 🌐 **Full-Stack Development:** React on the frontend, Django/Node on the backend, with relational database design
+- 🎓 B.S. Computer Science (AI Specialization) — **NED University of Engineering & Technology**, Karachi | CGPA 3.48
+- 🏆 Competitive programmer — **ICPC 2025**; hackathon builder at **IBA Pro Battle 2024 & 2025**
+- 🔐 Explored digital forensics workflows at **Cyber Threat Forensics (Resecurity, 2025)**
 - 👥 Member — **NST (NED Society of Technology)**, Software & Coding Domain
+- 🌱 Currently deepening: FastAPI, and advancing further into Machine Learning
 - 📫 Reach me: **muzamilahmed1h2@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Data Science & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+</td>
+<td valign="top" width="50%">
+
+**Full-Stack Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-basics-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Languages & Core CS**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web Development**
+</td>
+<td valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-basics-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Databases & Tools**
 
-**Data & Machine Learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Tools & Databases**
-
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏨 [Hotel Management System](https://github.com/muzammilahmed321/Hotel_Management_System)
-Full-stack hotel booking platform built with a 4-member team. Contributed the frontend (React) and the booking/search flow, plus a BCNF-normalized SQL Server schema across 12 entities.
-`React` `Node.js` `Express.js` `SQL Server`
+### 📊 Data Science
 
-### 💓 [Heart Stroke Prediction System](https://github.com/muzammilahmed321/Heart_Storke_Prediction_System)
-End-to-end ML pipeline predicting heart disease risk from 11 clinical features. Benchmarked 5 models, selected KNN (86.4% accuracy, 0.88 F1), and deployed a real-time Streamlit app.
+**[Heart Stroke Prediction System](https://github.com/muzammilahmed321/Heart_Storke_Prediction_System)**
+End-to-end ML pipeline predicting heart disease risk from 11 clinical features. Benchmarked 5 classification models, selected KNN (86.4% accuracy, 0.88 F1), and deployed a real-time Streamlit app with a serialized model/scaler pipeline.
 `Python` `scikit-learn` `Pandas` `Streamlit`
 
-### 💰 [Expense Tracker](https://github.com/muzammilahmed321/Expense-Tracker)
+**[Health Insurance Cost Prediction](https://github.com/muzammilahmed321/Intership)**
+OOP-structured regression pipeline predicting insurance charges — full workflow from data cleaning through hyperparameter tuning (GridSearchCV) and model comparison across Random Forest and Gradient Boosting.
+`Python` `scikit-learn` `Pandas` `Matplotlib`
+
+### 🌐 Full-Stack Development
+
+**[Hotel Management System](https://github.com/muzammilahmed321/Hotel_Management_System)**
+Full-stack hotel booking platform, built with a 4-member team. Contributed the React frontend, the search/booking flow, and a BCNF-normalized SQL Server schema across 12 entities.
+`React` `Node.js` `Express.js` `SQL Server`
+
+**[Expense Tracker](https://github.com/muzammilahmed321/Expense-Tracker)**
 OOP-driven full-stack expense tracker built with a teammate. JWT authentication, category-wise budgeting with automated threshold alerts, and a Recharts analytics dashboard.
 `React` `Django REST Framework` `SQLite`
 
-### 🌤️ [Weather App](https://github.com/muzammilahmed321/Weather-App-project-)
-Real-time weather app using the OpenWeather REST API with async/await, and a responsive vanilla JS UI with error handling.
+**[Weather App](https://github.com/muzammilahmed321/Weather-App-project-)**
+Real-time weather app using the OpenWeather REST API with async/await and a responsive vanilla JS UI with error handling.
 `HTML` `CSS` `JavaScript` `REST API`
 
-📌 *A few other repos on my profile (RAG chatbot, deep learning experiments) were built while learning those topics with AI assistance — they're there as learning milestones rather than production work.*
+> 📌 A few other repos on my profile (RAG chatbot, deep learning experiments) were built while exploring those topics with AI assistance — learning milestones rather than production-grade work.
 
 ---
 
