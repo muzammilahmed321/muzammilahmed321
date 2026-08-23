@@ -2,7 +2,7 @@
 
 # Hi, I'm Muzammil Ahmed 👋
 
-### CS Undergraduate (AI Specialization) @ NED University
+### CS Undergraduate (AI Specialization) @ NED University OF Engineering And Technology Karachi
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Data+Scientist;ML+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 
@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-ahmed-795527271)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muzammilahmed321)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzamilahmed1h2@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-03153582827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923153582827)
+[![Phone](https://img.shields.io/badge/Phone-+923153582827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923153582827)
 
 <img src="https://komarev.com/ghpvc/?username=muzammilahmed321&color=2563EB&style=for-the-badge" alt="profile views" />
 
@@ -138,7 +138,7 @@ Real-time weather app using the OpenWeather REST API with async/await and a resp
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzammil-ahmed-795527271)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzamilahmed1h2@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-03153582827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923153582827)
+[![Phone](https://img.shields.io/badge/Phone-+923153582827-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923153582827)
 
 ⭐ Thanks for stopping by — feel free to explore my repos and reach out!
 
